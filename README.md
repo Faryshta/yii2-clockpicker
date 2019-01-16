@@ -45,7 +45,7 @@ or add
 In the view file register the asset:
 
 ```php
-use farystha\widgets\JqueryClockPicker;
+use faryshta\widgets\JqueryClockPicker;
 
 
 // with ActiveForm
@@ -66,7 +66,7 @@ echo JqueryClockPicker::widget([
 In the view file register the asset:
 
 ```php
-use farystha\widgets\BootstrapClockPicker;
+use faryshta\widgets\BootstrapClockPicker;
 
 
 // with ActiveForm
