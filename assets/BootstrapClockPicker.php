@@ -14,7 +14,7 @@ class BootstrapClockPicker extends AssetBundle
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@vendor/bower/clockpicker/dist';
+    public $sourcePath = '@bower/clockpicker/dist';
 
     /**
      * @inheritdoc
